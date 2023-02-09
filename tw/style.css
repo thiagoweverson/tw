@@ -7,4 +7,5 @@ lines (7 sloc)  93 Bytes
 
 body{
 	background-image: url(img/background.png);
+	background-size: 20%;
 }
